@@ -1,0 +1,36 @@
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.loginScreen.resources
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.Properties.Resources.resources
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.csproj.GenerateResource.cache
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.csproj.CoreCompileInputs.cache
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\bin\Debug\CustomProgram.exe.config
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\bin\Debug\CustomProgram.exe
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\bin\Debug\CustomProgram.pdb
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.exe
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.pdb
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\bin\Debug\CustomProgram.exe.config
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\bin\Debug\CustomProgram.exe
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\bin\Debug\CustomProgram.pdb
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.loginScreen.resources
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.Properties.Resources.resources
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.csproj.GenerateResource.cache
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.csproj.CoreCompileInputs.cache
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.exe
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.pdb
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.CashierMenu.resources
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.CashierMenu.resources
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.ManagerMenu.resources
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.ViewStockMenu.resources
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.ProcessOrderScreen.resources
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.ManageStockMenu.resources
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.ManageUserMenu.resources
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.SalesReportMenu.resources
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.csprojAssemblyReference.cache
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.ManagerMenu.resources
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.ManageStockMenu.resources
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.ManageUserMenu.resources
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.ProcessOrderScreen.resources
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.SalesReportMenu.resources
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.ViewStockMenu.resources
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.csprojAssemblyReference.cache
+C:\Users\John\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.SortButtons.resources
+C:\Users\gordon's laptop\Google Drive\Swinburne\2018\Semester 2\COS20007 Object Oriented Programming\Labs\CustomProgram\CustomProgram\obj\Debug\CustomProgram.SortButtons.resources

@@ -1,0 +1,22 @@
+Weighted
+Bananas
+3.50
+Standard
+Cake
+5.60
+11
+Weighted
+Chicken
+10.99
+Standard
+Chips
+6.10
+11
+Standard
+item
+5.40
+0
+Standard
+Wheat Bix
+7.20
+38
